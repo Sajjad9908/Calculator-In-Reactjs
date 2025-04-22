@@ -2,7 +2,7 @@
 
 This is a simple and responsive calculator built using **React**. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## 🚀 Features
+   ## 🚀 Features
 
 - Basic arithmetic operations: `+`, `-`, `*`, `/`
 - Real-time calculation
